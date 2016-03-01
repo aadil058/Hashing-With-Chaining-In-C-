@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cstdlib>
-
+// edited by shourya
 using namespace std ;
 
 struct node {
